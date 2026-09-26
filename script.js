@@ -1,13 +1,4 @@
-/*
-HOW TO ADD YOUR VIDEOS
-----------------------
-1. Put landscape videos inside: videos/landscape/
-2. Put portrait/reel videos inside: videos/portrait/
-3. Add one line below for each video.
-4. Keep filenames simple: my-edit.mp4
 
-You can duplicate any object to add more videos.
-*/
 
 const landscapeVideos = [
   { title: "Editing Demo", type: "GIG Fiverr", file: "videos/landscape/GIG.mp4" },
